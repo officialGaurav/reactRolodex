@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactRolodex/static/css/main.68d6525e.chunk.css",
+    "main.js": "/reactRolodex/static/js/main.8ad297a2.chunk.js",
+    "main.js.map": "/reactRolodex/static/js/main.8ad297a2.chunk.js.map",
+    "runtime-main.js": "/reactRolodex/static/js/runtime-main.9911c4e7.js",
+    "runtime-main.js.map": "/reactRolodex/static/js/runtime-main.9911c4e7.js.map",
+    "static/js/2.3dfd3ca0.chunk.js": "/reactRolodex/static/js/2.3dfd3ca0.chunk.js",
+    "static/js/2.3dfd3ca0.chunk.js.map": "/reactRolodex/static/js/2.3dfd3ca0.chunk.js.map",
+    "static/js/3.a75f96e1.chunk.js": "/reactRolodex/static/js/3.a75f96e1.chunk.js",
+    "static/js/3.a75f96e1.chunk.js.map": "/reactRolodex/static/js/3.a75f96e1.chunk.js.map",
+    "index.html": "/reactRolodex/index.html",
+    "static/css/main.68d6525e.chunk.css.map": "/reactRolodex/static/css/main.68d6525e.chunk.css.map",
+    "static/js/2.3dfd3ca0.chunk.js.LICENSE.txt": "/reactRolodex/static/js/2.3dfd3ca0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9911c4e7.js",
+    "static/js/2.3dfd3ca0.chunk.js",
+    "static/css/main.68d6525e.chunk.css",
+    "static/js/main.8ad297a2.chunk.js"
+  ]
+}
